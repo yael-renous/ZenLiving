@@ -1,0 +1,14 @@
+C:\Users\Yael\source\repos\FengShuiProject\obj\Debug\FengShuiProject.csprojAssemblyReference.cache
+C:\Users\Yael\source\repos\FengShuiProject\obj\Debug\FengShuiProject.Properties.Resources.resources
+C:\Users\Yael\source\repos\FengShuiProject\obj\Debug\FengShuiProject.csproj.GenerateResource.cache
+C:\Users\Yael\source\repos\FengShuiProject\obj\Debug\FengShuiProject.csproj.CoreCompileInputs.cache
+C:\Users\Yael\source\repos\FengShuiProject\bin\Debug\FengShuiProject.exe.config
+C:\Users\Yael\source\repos\FengShuiProject\bin\Debug\FengShuiProject.exe
+C:\Users\Yael\source\repos\FengShuiProject\bin\Debug\FengShuiProject.pdb
+C:\Users\Yael\source\repos\FengShuiProject\obj\Debug\FengShuiProject.exe
+C:\Users\Yael\source\repos\FengShuiProject\obj\Debug\FengShuiProject.pdb
+C:\Users\Yael\source\repos\FengShuiProject\bin\Debug\Priority Queue.dll
+C:\Users\Yael\source\repos\FengShuiProject\bin\Debug\Priority Queue.pdb
+C:\Users\Yael\source\repos\FengShuiProject\bin\Debug\Priority Queue.xml
+C:\Users\Yael\source\repos\FengShuiProject\obj\Debug\FengShuiProject.csproj.CopyComplete
+C:\Users\Yael\source\repos\FengShuiProject\obj\Debug\FengShuiProject.Form1.resources
