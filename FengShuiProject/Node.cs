@@ -164,6 +164,8 @@ namespace FengShuiProject
                         counter += 6;
                     if (closetDiagnoalFromBed(closet,bedPlace))
                         counter += 2;
+                    if (furnitureUnderWindow(closet.placeIndex))
+                        counter += 2;
                 }
             }
             return counter;
